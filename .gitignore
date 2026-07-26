@@ -1,0 +1,6 @@
+# Conda/Python environment
+venv/
+.venv/
+
+# Environment variables
+.env
