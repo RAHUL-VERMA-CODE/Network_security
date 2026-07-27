@@ -4,3 +4,6 @@ venv/
 
 # Environment variables
 .env
+
+# Python packaging
+NetworkSecurity.egg-info/
