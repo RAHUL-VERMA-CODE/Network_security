@@ -7,3 +7,5 @@ venv/
 
 # Python packaging
 NetworkSecurity.egg-info/
+
+__pycache__/
